@@ -1,0 +1,175 @@
+Imagem 1
+Contagem Central: 5
+Contagem Intermediario: 258
+Contagem Externo: 43
+
+Diagnostico: Moderado
+
+Imagem 2
+Contagem Central: 7
+Contagem Intermediario: 100
+Contagem Externo: 48
+
+Diagnostico: Moderado
+
+Imagem 3
+Contagem Central: 0
+Contagem Intermediario: 135
+Contagem Externo: 0
+
+Diagnostico: Moderado
+
+Imagem 4
+Contagem Central: 68
+Contagem Intermediario: 704
+Contagem Externo: 130
+
+Diagnostico: Grave
+
+Imagem 5
+Contagem Central: 0
+Contagem Intermediario: 27
+Contagem Externo: 197
+
+Diagnostico: Moderado
+
+Imagem 6
+Contagem Central: 115
+Contagem Intermediario: 51
+Contagem Externo: 5
+
+Diagnostico: Grave
+
+Imagem 7
+Contagem Central: 66
+Contagem Intermediario: 439
+Contagem Externo: 878
+
+Diagnostico: Grave
+
+Imagem 8
+Contagem Central: 32
+Contagem Intermediario: 609
+Contagem Externo: 631
+
+Diagnostico: Grave
+
+Imagem 9
+Contagem Central: 0
+Contagem Intermediario: 302
+Contagem Externo: 454
+
+Diagnostico: Grave
+
+Imagem 10
+Contagem Central: 31
+Contagem Intermediario: 1403
+Contagem Externo: 1204
+
+Diagnostico: Grave
+
+Imagem 11
+Contagem Central: 0
+Contagem Intermediario: 14
+Contagem Externo: 277
+
+Diagnostico: Leve
+
+Imagem 12
+Contagem Central: 0
+Contagem Intermediario: 0
+Contagem Externo: 50
+
+Diagnostico: Leve
+
+Imagem 13
+Contagem Central: 0
+Contagem Intermediario: 84
+Contagem Externo: 876
+
+Diagnostico: Moderado
+
+Imagem 14
+Contagem Central: 0
+Contagem Intermediario: 924
+Contagem Externo: 1050
+
+Diagnostico: Grave
+
+Imagem 15
+Contagem Central: 0
+Contagem Intermediario: 5
+Contagem Externo: 5
+
+Diagnostico: Leve
+
+Imagem 16
+Contagem Central: 0
+Contagem Intermediario: 28
+Contagem Externo: 90
+
+Diagnostico: Moderado
+
+Imagem 17
+Contagem Central: 0
+Contagem Intermediario: 24
+Contagem Externo: 140
+
+Diagnostico: Moderado
+
+Imagem 18
+Contagem Central: 0
+Contagem Intermediario: 32
+Contagem Externo: 0
+
+Diagnostico: Moderado
+
+Imagem 19
+Contagem Central: 0
+Contagem Intermediario: 276
+Contagem Externo: 355
+
+Diagnostico: Moderado
+
+Imagem 20
+Contagem Central: 2
+Contagem Intermediario: 187
+Contagem Externo: 176
+
+Diagnostico: Moderado
+
+Imagem 21
+Contagem Central: 0
+Contagem Intermediario: 47
+Contagem Externo: 141
+
+Diagnostico: Moderado
+
+Imagem 22
+Contagem Central: 0
+Contagem Intermediario: 0
+Contagem Externo: 0
+
+Diagnostico: Ausente
+
+Imagem 23
+Contagem Central: 0
+Contagem Intermediario: 0
+Contagem Externo: 0
+
+Diagnostico: Ausente
+
+Imagem 24
+Contagem Central: 0
+Contagem Intermediario: 0
+Contagem Externo: 0
+
+Diagnostico: Ausente
+
+Imagem 25
+Contagem Central: 0
+Contagem Intermediario: 0
+Contagem Externo: 3
+
+Diagnostico: Ausente
+

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjetoGlaucoma2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProjetoGlaucoma2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProjetoGlaucoma2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-march=athlon-mp" />
+			<Add option="-fomit-frame-pointer" />
+			<Add option="-fexpensive-optimizations" />
+			<Add option="-O3" />
+			<Add option="-Wall" />
+			<Add option="-fopenmp" />
+		</Compiler>
+		<Linker>
+			<Add library="..\..\..\..\..\Program Files (x86)\CodeBlocks\MinGW\bin\libgomp-1.dll" />
+		</Linker>
+		<Unit filename="est1.txt" />
+		<Unit filename="est11.txt" />
+		<Unit filename="est13.txt" />
+		<Unit filename="est17.txt" />
+		<Unit filename="est2.txt" />
+		<Unit filename="est3.txt" />
+		<Unit filename="est3alterado.txt" />
+		<Unit filename="est4.txt" />
+		<Unit filename="est5.txt" />
+		<Unit filename="est9.txt" />
+		<Unit filename="estruturante.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pimagens.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pimagens.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

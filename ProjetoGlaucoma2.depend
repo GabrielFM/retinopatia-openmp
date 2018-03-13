@@ -1,0 +1,543 @@
+# depslib dependency file v1.0
+1351885262 source:c:\users\tald\desktop\teste\projetoglaucoma2\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1351885284 c:\users\tald\desktop\teste\projetoglaucoma2\pimagens.h
+
+1351882934 source:c:\users\tald\desktop\teste\projetoglaucoma2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1351887878 source:c:\users\tsm\desktop\projetoglaucoma2\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1351887071 c:\users\tsm\desktop\projetoglaucoma2\pimagens.h
+
+1351888975 source:c:\users\tsm\desktop\projetoglaucoma2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1351977363 source:c:\users\luiz de lima souza\desktop\projetoglaucoma2\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1351977363 c:\users\luiz de lima souza\desktop\projetoglaucoma2\pimagens.h
+
+1351977363 source:c:\users\luiz de lima souza\desktop\projetoglaucoma2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1352001286 source:c:\projetoglaucoma2\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1352001259 c:\projetoglaucoma2\pimagens.h
+
+1352000004 source:c:\projetoglaucoma2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1355513324 source:c:\users\tald\desktop\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1355514155 c:\users\tald\desktop\ic_glaucoma\pimagens.h
+
+1355514182 source:c:\users\tald\desktop\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1352237445 source:c:\users\luiz de lima souza\desktop\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1352237470 c:\users\luiz de lima souza\desktop\ic_glaucoma\pimagens.h
+
+1352263574 source:c:\users\luiz de lima souza\desktop\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1353449791 source:c:\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1353445174 c:\ic_glaucoma\pimagens.h
+
+1353449099 source:c:\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1352826051 source:c:\users\lls\desktop\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1352237472 c:\users\lls\desktop\ic_glaucoma\pimagens.h
+
+1363037379 source:c:\users\gwas\desktop\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1363031414 c:\users\gwas\desktop\ic_glaucoma\pimagens.h
+
+1363037087 source:c:\users\gwas\desktop\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1353445958 source:c:\users\tald\downloads\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1353445174 c:\users\tald\downloads\ic_glaucoma\pimagens.h
+
+1353445694 source:c:\users\tald\downloads\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1353677615 source:c:\users\luiz\desktop\ic_glaucoma\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1353677867 c:\users\luiz\desktop\ic_glaucoma\ic_glaucoma\pimagens.h
+
+1353679255 source:c:\users\luiz\desktop\ic_glaucoma\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1353679256 source:f:\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1353677868 f:\ic_glaucoma\pimagens.h
+
+1353706878 source:g:\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1353704932 g:\ic_glaucoma\pimagens.h
+
+1353706304 source:g:\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1353735806 source:c:\users\luiz\desktop\ic_glaucoma (1)\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1353733919 c:\users\luiz\desktop\ic_glaucoma (1)\ic_glaucoma\pimagens.h
+
+1353734223 source:c:\users\luiz\desktop\ic_glaucoma (1)\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1356725526 source:c:\users\thiago\desktop\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1356719032 c:\users\thiago\desktop\ic_glaucoma\pimagens.h
+
+1356730972 source:c:\users\thiago\desktop\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1356016806 source:c:\users\luiz de lima souza\desktop\ic_glaucoma(completo)\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1356017249 c:\users\luiz de lima souza\desktop\ic_glaucoma(completo)\ic_glaucoma\pimagens.h
+
+1356136361 source:c:\users\luiz de lima souza\desktop\ic_glaucoma(completo)\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1356295722 source:c:\users\luiz\desktop\ic_glaucoma(completo)\ic_glaucoma(completo)\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1356294579 c:\users\luiz\desktop\ic_glaucoma(completo)\ic_glaucoma(completo)\ic_glaucoma\pimagens.h
+
+1356292690 source:c:\users\luiz\desktop\ic_glaucoma(completo)\ic_glaucoma(completo)\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1356555807 source:c:\users\thiago\desktop\novapasta\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1356555849 c:\users\thiago\desktop\novapasta\ic_glaucoma\pimagens.h
+
+1356555952 source:c:\users\thiago\desktop\novapasta\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1356561674 source:d:\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1356555849 d:\ic_glaucoma\pimagens.h
+
+1356559826 source:d:\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1356640302 source:c:\users\luiz\desktop\ic\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1356635704 c:\users\luiz\desktop\ic\ic_glaucoma\pimagens.h
+
+1356639064 source:c:\users\luiz\desktop\ic\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1358289818 source:c:\users\tsm\desktop\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1358287984 c:\users\tsm\desktop\ic_glaucoma\pimagens.h
+
+1358289859 source:c:\users\tsm\desktop\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1359413344 source:e:\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1358287984 e:\ic_glaucoma\pimagens.h
+
+1359413088 source:e:\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1360720033 source:c:\users\thiago\desktop\coisas da ic\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1358287984 c:\users\thiago\desktop\coisas da ic\ic_glaucoma\pimagens.h
+
+1360723831 source:c:\users\thiago\desktop\coisas da ic\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1360869431 source:e:\coisas da ic\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1358287984 e:\coisas da ic\ic_glaucoma\pimagens.h
+
+1360869466 source:e:\coisas da ic\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1367128372 source:c:\users\gabriel\desktop\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1367128372 c:\users\gabriel\desktop\ic_glaucoma\pimagens.h
+
+1367293570 source:c:\users\gabriel\desktop\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1367128372 source:c:\users\gabriel\desktop\ic_glaucoma - cópia\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1367128372 c:\users\gabriel\desktop\ic_glaucoma - cópia\pimagens.h
+
+1367129970 source:c:\users\gabriel\desktop\ic_glaucoma - cópia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1367472384 source:c:\users\gabriel\desktop\auxiliar\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1367454493 c:\users\gabriel\desktop\auxiliar\ic_glaucoma\pimagens.h
+
+1367468093 source:c:\users\gabriel\desktop\auxiliar\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1367468093 source:c:\users\gabriel\desktop\iniciação cientifica - retinopatia\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1367454493 c:\users\gabriel\desktop\iniciação cientifica - retinopatia\ic_glaucoma\pimagens.h
+
+1367526266 source:c:\users\gabriel\desktop\iniciação cientifica - retinopatia\ic_glaucoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1367468093 source:c:\users\gabriel\desktop\iniciação cientifica - retinopatia\testes\ic_glaucoma\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1367454493 c:\users\gabriel\desktop\iniciação cientifica - retinopatia\testes\ic_glaucoma\pimagens.h
+
+1384497396 source:c:\users\gabriel\desktop\iniciação cientifica - retinopatia\testes\ic_glaucoma - testa deteccao disco optico\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1384493729 c:\users\gabriel\desktop\iniciação cientifica - retinopatia\testes\ic_glaucoma - testa deteccao disco optico\pimagens.h
+
+1384495798 source:c:\users\gabriel\desktop\iniciação cientifica - retinopatia\testes\ic_glaucoma - testa deteccao disco optico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1390434132 source:c:\users\tsm\desktop\ic_glaucoma - deteccao disco optico e centroide\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1390433315 c:\users\tsm\desktop\ic_glaucoma - deteccao disco optico e centroide\pimagens.h
+
+1392670637 source:c:\users\tsm\desktop\ic_glaucoma - deteccao disco optico e centroide\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1394252802 source:c:\users\gabriel\desktop\relatorio - bolsa\12.ic_glaucoma - exudados com disco optico-17.2.14\ic_glaucoma - deteccao disco optico e centroide\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1394252853 c:\users\gabriel\desktop\relatorio - bolsa\12.ic_glaucoma - exudados com disco optico-17.2.14\ic_glaucoma - deteccao disco optico e centroide\pimagens.h
+
+1394254118 source:c:\users\gabriel\desktop\relatorio - bolsa\12.ic_glaucoma - exudados com disco optico-17.2.14\ic_glaucoma - deteccao disco optico e centroide\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1394252802 source:c:\users\gwas\downloads\ic_glaucoma - deteccao disco optico e centroide\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1394252853 c:\users\gwas\downloads\ic_glaucoma - deteccao disco optico e centroide\pimagens.h
+
+1397578975 source:c:\users\gwas\downloads\ic_glaucoma - deteccao disco optico e centroide\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1398557597 source:c:\users\gabriel\desktop\iniciação cientifica - retinopatia\abril 2014\ic_glaucoma - deteccao disco optico e centroide\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1398557597 c:\users\gabriel\desktop\iniciação cientifica - retinopatia\abril 2014\ic_glaucoma - deteccao disco optico e centroide\pimagens.h
+
+1398549187 source:c:\users\gabriel\desktop\iniciação cientifica - retinopatia\abril 2014\ic_glaucoma - deteccao disco optico e centroide\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1411528268 source:c:\users\gabriel albuquerque\desktop\ic_glaucoma - deteccao disco optico e centroide\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1411528129 c:\users\gabriel albuquerque\desktop\ic_glaucoma - deteccao disco optico e centroide\pimagens.h
+
+1411528092 source:c:\users\gabriel albuquerque\desktop\ic_glaucoma - deteccao disco optico e centroide\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1414701483 source:c:\users\gabriel albuquerque\desktop\retinopatia - finalizacao\ic_glaucoma - deteccao disco optico e centroide\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pimagens.h"
+
+1414702570 c:\users\gabriel albuquerque\desktop\retinopatia - finalizacao\ic_glaucoma - deteccao disco optico e centroide\pimagens.h
+
+1414043507 source:c:\users\gabriel albuquerque\desktop\retinopatia - finalizacao\ic_glaucoma - deteccao disco optico e centroide\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
+1415163162 source:c:\users\thiago\desktop\ic_glaucoma - deteccao disco optico e centroide\ic_glaucoma - final do diagnostico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+	<time.h>
+	"pimagens.h"
+
+1415165188 c:\users\thiago\desktop\ic_glaucoma - deteccao disco optico e centroide\ic_glaucoma - final do diagnostico\pimagens.h
+
+1414043507 source:c:\users\thiago\desktop\ic_glaucoma - deteccao disco optico e centroide\ic_glaucoma - final do diagnostico\pimagens.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"pimagens.h"
+
