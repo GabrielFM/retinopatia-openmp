@@ -1,6 +1,6 @@
 Imagem 1
 Contagem Central: 5
-Contagem Intermediario: 258
+Contagem Intermediario: 111
 Contagem Externo: 43
 
 Diagnostico: Moderado
@@ -44,9 +44,9 @@ Diagnostico: Moderado
 Diagnostico: Moderado
 
 Imagem 6
-Contagem Central: 115
-Contagem Intermediario: 51
-Contagem Externo: 28
+Contagem Central: 77
+Contagem Intermediario: 25
+Contagem Externo: 5
 
 Diagnostico: Grave
 
@@ -90,12 +90,12 @@ Diagnostico: Grave
 
 Imagem 11
 Contagem Central: 0
-Contagem Intermediario: 3
-Contagem Externo: 209
+Contagem Intermediario: 12
+Contagem Externo: 345
 
-Diagnostico: Leve
+Diagnostico: Moderado
 
-Diagnostico: Leve
+Diagnostico: Moderado
 
 Imagem 12
 Contagem Central: 0
@@ -127,7 +127,7 @@ Diagnostico: Grave
 Imagem 15
 Contagem Central: 0
 Contagem Intermediario: 5
-Contagem Externo: 5
+Contagem Externo: 0
 
 Diagnostico: Leve
 
@@ -135,8 +135,8 @@ Diagnostico: Leve
 
 Imagem 16
 Contagem Central: 0
-Contagem Intermediario: 28
-Contagem Externo: 90
+Contagem Intermediario: 35
+Contagem Externo: 23
 
 Diagnostico: Moderado
 
@@ -162,8 +162,8 @@ Diagnostico: Moderado
 
 Imagem 19
 Contagem Central: 0
-Contagem Intermediario: 276
-Contagem Externo: 355
+Contagem Intermediario: 188
+Contagem Externo: 184
 
 Diagnostico: Moderado
 
@@ -217,9 +217,9 @@ Diagnostico: Ausente
 Imagem 25
 Contagem Central: 0
 Contagem Intermediario: 0
-Contagem Externo: 5
+Contagem Externo: 0
 
-Diagnostico: Leve
+Diagnostico: Ausente
 
-Diagnostico: Leve
+Diagnostico: Ausente
 

@@ -56,7 +56,7 @@ int main()
     {
         begin = clock();
         fprintf(relatorio, "Imagem %d\n", k);
-        fprintf(tempo, "Imagem %d\n", k);
+        // fprintf(tempo, "Imagem %d\n", k);
         #pragma omp parallel num_threads(2)
         {
             #pragma omp sections
@@ -478,7 +478,7 @@ int main()
 //        liberarMatriz2D(f[i], y);
 //    }
 
-        fprintf(tempo,"Tempo: %f\n",(double)(end - begin) / CLOCKS_PER_SEC);
+        fprintf(tempo,"%f\n",(double)(end - begin) / CLOCKS_PER_SEC);
 
 
         printf(" FIM - Imagem %d \n\n", k);

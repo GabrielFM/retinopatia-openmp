@@ -1,50 +1,25 @@
-Imagem 1
-Tempo: 26.372542
-Imagem 2
-Tempo: 24.622300
-Imagem 3
-Tempo: 23.812642
-Imagem 4
-Tempo: 23.623033
-Imagem 5
-Tempo: 26.251565
-Imagem 6
-Tempo: 27.502766
-Imagem 7
-Tempo: 23.302886
-Imagem 8
-Tempo: 26.307867
-Imagem 9
-Tempo: 25.642020
-Imagem 10
-Tempo: 28.899081
-Imagem 11
-Tempo: 26.322694
-Imagem 12
-Tempo: 29.017722
-Imagem 13
-Tempo: 29.051982
-Imagem 14
-Tempo: 26.622735
-Imagem 15
-Tempo: 24.122420
-Imagem 16
-Tempo: 26.985213
-Imagem 17
-Tempo: 32.336825
-Imagem 18
-Tempo: 25.725308
-Imagem 19
-Tempo: 27.539832
-Imagem 20
-Tempo: 30.604603
-Imagem 21
-Tempo: 22.800858
-Imagem 22
-Tempo: 26.466163
-Imagem 23
-Tempo: 24.814239
-Imagem 24
-Tempo: 24.052981
-Imagem 25
-Tempo: 29.799129
+25.348547
+23.784333
+23.014950
+22.611477
+25.141162
+24.303287
+22.580480
+24.783063
+24.568408
+27.658709
+26.547367
+27.957554
+28.259006
+25.676942
+23.757602
+21.994611
+31.317763
+24.680352
+25.359510
+29.146516
+21.660883
+20.339860
+23.738227
+23.100768
+22.501010

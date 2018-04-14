@@ -2365,17 +2365,17 @@ int passo39(byte** matriz, int x, int y, byte** v, int tamEst, int xCentroFovea,
 
     if(ordem == 1)
     {
-        sprintf(nomeOut, "Imagens\\%d_1_out.bmp", k);
+        sprintf(nomeOut, "Imagens/%d_1_out.bmp", k);
         escreveImagem(confere,nomeOut, x, y);
     }
     else if(ordem == 2)
     {
-        sprintf(nomeOut, "Imagens\\%d_2_out.bmp", k);
+        sprintf(nomeOut, "Imagens/%d_2_out.bmp", k);
         escreveImagem(confere,nomeOut, x, y);
     }
     else
     {
-        sprintf(nomeOut, "Imagens\\%d_3_out.bmp", k);
+        sprintf(nomeOut, "Imagens/%d_3_out.bmp", k);
         escreveImagem(confere,nomeOut, x, y);
     }
 
